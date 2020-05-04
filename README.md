@@ -19,6 +19,6 @@ ___
 ### C
 
 ### Latex
-[Add Image] (Latex/Image.md)
+[Add Image](Latex/Image.md)
 
 ### Slurm
