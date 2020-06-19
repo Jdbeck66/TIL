@@ -27,3 +27,9 @@ This deletes images no longer needed
 ``` docker
 docker rmi
 ```
+
+Adding `--rm` autmatically removes the container when it exits
+
+``` docker
+docker run --rm <dockerImageName>
+```
