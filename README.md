@@ -29,7 +29,7 @@ ___
 
 ### Docker
 
-* [Remove Containers](Docker/removeCOntainers.md)
+* [Remove Containers](Docker/removeContainers.md)
 
 ### Javascript
 
