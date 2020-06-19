@@ -1,5 +1,7 @@
 # Add an Image to latex
 
+[Return Home](../README.md)
+
 Create an image folder to contain the png image.  
 ```
 \usepackage{graphicx} % Insert graphic files/images
