@@ -9,6 +9,7 @@ ___
 ### Categories
 * [Bash](#BASH)
 * [C](#C)
+* [Docker](#Docker)
 * [Latex](#Latex)
 * [Slurm](#Slurm)
 
@@ -18,7 +19,12 @@ ___
 
 ### C
 
+### Docker
+
+[Remove Containers](Docker/removeCOntainers.md)
+
 ### Latex
+
 [Add Image](Latex/Image.md)
 
 ### Slurm
