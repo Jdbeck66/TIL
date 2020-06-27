@@ -1,4 +1,4 @@
-# Clean up executed containers
+# jq command: for JSON processing
 
 [Return Home](../README.md)
 

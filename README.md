@@ -18,12 +18,14 @@ ___
 * [Python](#Python)
 * [Singularity](#Singularity)
 * [Slurm](#Slurm)
+* [Zsh](#Zsh)
 
 ___  
 
 ### BASH
 
 * [fd](BASH/fd.md)
+* [history](BASH/history.md)
 * [jq](BASH/jq.md)
 * [ncdu](BASH/ncdu.md)
 * [tldr](BASH/tldr.md)
@@ -51,3 +53,8 @@ ___
 ### Singularity
 
 ### Slurm
+
+### Zsh
+
+* [Zsh basics](Zsh/basics.md)
+* [Oh My Zsh](Zsh/ohmyzsh.md)
