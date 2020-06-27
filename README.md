@@ -23,6 +23,11 @@ ___
 
 ### BASH
 
+* [fd](BASH/fd.md)
+* [jq](BASH/jq.md)
+* [ncdu](BASH/ncdu.md)
+* [tldr](BASH/tldr.md)
+
 ### C
 
 ### D3.js

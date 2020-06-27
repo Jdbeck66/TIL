@@ -5,13 +5,13 @@
 ## remove all executed containers
 
 >>>
-**-a** all
+**-a** -> all
   
- **-q** returns numeric keys
+ **-q** -> returns numeric keys
   
- **-f** filters output based on the conditions provided
+ **-f** -> filters output based on the conditions provided
 
- **status=exited** the filter condition
+ **status=exited** -> filter condition
 >>>
 
 ``` docker
