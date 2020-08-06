@@ -53,7 +53,7 @@ ___
 
 ### Qiime
 
-* [Cluster Install](Qiime2/Qiime2_Installation)
+* [Cluster Install](Qiime2/Qiime2_Installation.md)
 
 ### Singularity
 
