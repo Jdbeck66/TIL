@@ -35,8 +35,6 @@ conda activate qiime2-2020.6
 # To close the environment
 conda deactivate qiime2-2020.6
 
-
 # To test your install
 qiime2 --help
-
 ```
