@@ -16,6 +16,7 @@ ___
 * [Latex](#Latex)
 * [Matlab](#Matlab)
 * [Python](#Python)
+* [Qiime2](#Qiime2)
 * [Singularity](#Singularity)
 * [Slurm](#Slurm)
 * [Zsh](#Zsh)
@@ -49,6 +50,10 @@ ___
 ### Matlab
 
 ### Python
+
+### Qiime
+
+* [Cluster Install](Qiime2/Qiime2_Installation)
 
 ### Singularity
 
