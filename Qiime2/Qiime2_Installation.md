@@ -23,6 +23,20 @@ export PATH=~/anaconda3/condabin:$PATH
 # Create a conda environment called qiime2-2020.6 and load qiime2 into it
 anaconda3/condabin/conda env create -n qiime2-2020.6 --file qiime2-2020.6-py36-linux-conda.yml
 
-# After installing
+# If prompted, initialize your shell
+conda init bash
+
+# After completed
 source .bashrc
+
+# To start the environment
+conda activate qiime2-2020.6
+
+# To close the environment
+conda deactivate qiime2-2020.6
+
+
+# To test your install
+qiime2 --help
+
 ```
