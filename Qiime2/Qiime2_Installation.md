@@ -3,6 +3,8 @@
 [Return Home](../README.md)
 
 
+## Qiime2 v2020.6 and Anaconda v2020.07
+
 ```bash
 
 # Get anaconda3 and the qiime2 instructions
