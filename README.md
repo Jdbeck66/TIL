@@ -43,6 +43,8 @@ ___
 
 ### Julia
 
+* [Environments](Julia/Environments.md)
+
 ### Latex
 
 * [Add Image](Latex/Image.md)
