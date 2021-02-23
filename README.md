@@ -2,66 +2,46 @@
 
 > Things I Learned  
 
-A documentation of coding artifacts accumulated across various languages and technical approaches 
+A documentation of general coding artifacts, concepts in biology and genetics, and computational biology/bio-informatic tooling.
 
 ___
+## Genomics Concepts
 
-### Categories
-* [Bash](#BASH)
-* [C](#C)
-* [D3.js](#D3.js)
-* [Docker](#Docker)
-* [Javascript](#Javascript)
-* [Julia](#Julia)
-* [Latex](#Latex)
-* [Matlab](#Matlab)
-* [Python](#Python)
-* [Qiime2](#Qiime2)
-* [Singularity](#Singularity)
-* [Slurm](#Slurm)
-* [Zsh](#Zsh)
+* [iGenomes]()
+* [PHiX contamination]()
+* [Simple Sequence]()
+* [Strand Specific Sequencing Protocals]()
 
-___  
+## Bio-Informatics Tooling
 
-### BASH
+* [BEDTools]()
+* [Bowtie 2]()
+* [BLAST]()
+* [DESeq2]()
+* [Entrez Direct]()
+* [FastQC]()
+* [HISAT2]()
+* [HTSeq]()
+* [Infernal]()
+* [LAMMPS]()
+* [PolyPhen2]()
+* [Qiime2]()
+* [Samtools]()
+* [SRATools]()
+* [TopHat2]()
 
-* [fd](BASH/fd.md)
-* [history](BASH/history.md)
-* [jq](BASH/jq.md)
-* [ncdu](BASH/ncdu.md)
-* [tldr](BASH/tldr.md)
+## Math Concepts
 
-### C
+* [Binomial Regression]()
+## Coding
 
-### D3.js
-
-### Docker
-
-* [Remove Containers](Docker/removeContainers.md)
-
-### Javascript
-
-### Julia
-
-* [Environments](Julia/Environments.md)
-
-### Latex
-
-* [Add Image](Latex/Image.md)
-
-### Matlab
-
-### Python
-
-### Qiime
-
-* [Cluster Install](Qiime2/Qiime2_Installation.md)
-
-### Singularity
-
-### Slurm
-
-### Zsh
-
-* [Zsh basics](Zsh/basics.md)
-* [Oh My Zsh](Zsh/ohmyzsh.md)
+* [C]()
+* [D3.js]()
+* [Docker]()
+* [Javascript]()
+* [Julia]()
+* [Latex]()
+* [Python]()
+* [Shell]()
+* [Singularity]()
+* [Slurm]()
