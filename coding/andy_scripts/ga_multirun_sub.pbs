@@ -1,0 +1,30 @@
+#!/bin/bash
+# Request Resources
+#PBS -l select=1:ncpus=4:mpiprocs=4
+# Name of the Job
+#PBS -N Li_Cl
+# WallTime
+#PBS -l walltime=40:00:00
+# Merge output and error file
+#PBS -j oe
+# Project Name
+#PBS -P iuc
+# Email  a=aboarted, e=terminates, b=begin
+#PBS -m bae
+# Specifc Email address
+###  PBS -M hpctracking@gmail.com
+# Specific PBS software 
+#PBS -l software=undetermined
+
+cd "$PBS_O_WORKDIR"
+
+#--------------------------------------#
+module purge all
+module load python/3.7-anaconda-2019.10
+#conda init bash
+source activate EXAFS
+
+#python $var $i
+#hfal3_28_UnIrr_100.py
+#python zr_hfal3_28_IrrAn.py $i
+exafs -i $var
